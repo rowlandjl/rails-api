@@ -1,0 +1,5 @@
+---
+title: "Rails API"
+type: "challenge"
+description: "Walkthrough building an API endpoint and interacting with it via JavaScript."
+tags: "rails, api, jasmine"
